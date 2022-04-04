@@ -1,0 +1,26 @@
+.Pnavbar{
+    display: flex;
+    background-color:#ff523b;
+    width: 100%;
+    height: 10vh;
+}
+.navbar1 img{
+    margin-top: 20px;
+}
+.navbar2 ul{
+display: flex;
+}
+.navbar2 ul li{
+    margin: 5px 10px 10px 10px;
+    padding-left: 50px;
+    color: white;
+}
+.Pnavbar2 ul{
+    display: flex;
+    list-style: none;
+    padding-left: 730px;
+margin: 20px 20px;
+}
+.Pnavbar2 ul li{
+    padding: 0px 30px;
+}
