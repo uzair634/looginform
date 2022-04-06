@@ -24,3 +24,16 @@ margin: 20px 20px;
 .Pnavbar2 ul li{
     padding: 0px 30px;
 }
+.Pnavbar3{
+
+}
+.Pnavbar3 ul{
+    display: flex;
+/* width: 30%; */
+height: 30vh;    
+}
+.Pnavbar3 ul li{
+    display: flex;
+    /* width: 30%; */
+    background-size: cover;
+}
