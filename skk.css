@@ -6,14 +6,21 @@
 }
 .navbar1 img{
     margin-top: 20px;
+    padding-left: 10px;
 }
 .navbar2 ul{
 display: flex;
 }
 .navbar2 ul li{
     margin: 5px 10px 10px 10px;
-    padding-left: 50px;
+    padding-left: 60px;
     color: white;
+}
+.Pnavbar2{
+    background-color: lightcoral;
+    width: 100%;
+    height: 6vh;
+    justify-content: center;
 }
 .Pnavbar2 ul{
     display: flex;
@@ -25,7 +32,8 @@ margin: 20px 20px;
     padding: 0px 30px;
 }
 .Pnavbar3{
-
+margin-top:50px ;
+margin-left: 10px;
 }
 .Pnavbar3 ul{
     display: flex;
@@ -34,6 +42,8 @@ height: 30vh;
 }
 .Pnavbar3 ul li{
     display: flex;
-    /* width: 30%; */
+    width: 100%;
+    padding-left: 40px;
     background-size: cover;
+    height: 40vh;
 }
